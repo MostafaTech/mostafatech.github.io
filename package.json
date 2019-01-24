@@ -1,0 +1,25 @@
+{
+    "title": "Mostafa Rowghanian",
+    "name": "mostafatech.github.io",
+    "version": "1.0.0",
+    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "homepage": "https://mostafatech.github.io",
+    "license": "MIT",
+    "author": "Mostafa Rowghanian",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MostafaTech/mostafatech.github.io.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.7",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "6.0.0",
+        "gulp-clean-css": "3.10.0",
+        "gulp-header": "2.0.5",
+        "gulp-rename": "1.4.0",
+        "gulp-sass": "4.0.1",
+        "gulp-uglify": "3.0.1"
+    }
+}
