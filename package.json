@@ -10,8 +10,7 @@
         "type": "git",
         "url": "https://github.com/MostafaTech/mostafatech.github.io.git"
     },
-    "dependencies": {
-    },
+    "dependencies": {},
     "devDependencies": {
         "browser-sync": "2.24.7",
         "gulp": "^3.9.1",
