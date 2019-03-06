@@ -83,6 +83,32 @@ p.lead {
   color: #009688;
 }
 
+.tool-logos {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tool-logos li {
+  display: inline-block;
+  margin: 2px 0px 2px 0px;
+  cursor: pointer;
+}
+
+.tool-logos li img {
+  width: 64px;
+  height: auto;
+  -webkit-transition: all 0.8s;
+  transition: all 0.8s;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.tool-logos li img:hover {
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
